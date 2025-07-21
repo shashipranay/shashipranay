@@ -18,4 +18,6 @@ I’m Gowni Shashi Pranay, a passionate and driven Computer Science student, Wit
 ---
 [![](https://visitcount.itsvg.in/api?id=shashipranay&icon=0&color=2)](https://visitcount.itsvg.in)
 
+![](https://komarev.com/ghpvc/?username=shashipranay)
+
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
